@@ -7,4 +7,4 @@
 
 
 # RecipeAdviser
-:fork_and_knife: RecipeAdviser is a Flutter application which holds your dish recipes and advises you on what to eat based on your preferences for the following days 
+RecipeAdviser is a Flutter application which holds your dish recipes and advises you on what to eat based on your preferences for the following days. The development hasn't started yet but will do so soon.
