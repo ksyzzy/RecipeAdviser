@@ -7,7 +7,4 @@
 
 
 # RecipeAdviser
-RecipeAdviser is a Flutter application which holds your dish recipes and advises you on what to eat based on your preferences for the following days. The development hasn't started yet but will do so soon.
-
-# Project backlog
-You can find the project backlog [here](https://trello.com/b/1eZE9791) on Trello. 
+RecipeAdviser is a Flutter application which holds your dish recipes and advises you on what to eat based on your preferences for the following days. The development hasn't started yet but hopefully will soon.
